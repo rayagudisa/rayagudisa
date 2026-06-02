@@ -2,8 +2,10 @@
 
 ## Junior Network Infrastructure Officer
 
-I am passionate about:
+### About Me
+Passionate about designing, securing, and managing enterprise network infrastructure. I am continuously expanding my expertise in Cisco networking, network security, Linux administration, and cloud technologies.
 
+### Areas of Interest
 - Enterprise Networking
 - Cisco Technologies
 - Network Security
@@ -12,22 +14,28 @@ I am passionate about:
 - Cybersecurity
 
 ### Current Goals
+- 🎯 CCNA Certification
+- 🎯 Enterprise Infrastructure
+- 🎯 Network Security Engineering
+- 🎯 Cloud Networking
+- 🎯 Digital Transformation Technologies
 
-- CCNA Certification
-- Enterprise Infrastructure
-- Network Security Engineering
-- Cloud Networking
-
-### Technologies
-
+### Technical Skills
 - Cisco IOS
 - Routing & Switching
 - VPN Technologies
-- Linux
-- VMware
+- Linux Administration
+- VMware Virtualization
 - Network Monitoring
+- Infrastructure Troubleshooting
+
+### Professional Role
+Junior Network Infrastructure Officer  
+Ministry of Revenues, Ethiopia
 
 ### Connect With Me
+🌐 Portfolio: https://rayagudisa.github.io
 
-- Portfolio: https://rayagudisa.github.io
-- GitHub: https://github.com/rayagudisa
+💻 GitHub: https://github.com/rayagudisa
+
+📧 Email: raayyaaguddisaa@gmail.com
