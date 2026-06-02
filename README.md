@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ababa Gudisa Labata 👋
 
-<!--
-**rayagudisa/rayagudisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Junior Network Infrastructure Officer
 
-Here are some ideas to get you started:
+I am passionate about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Enterprise Networking
+- Cisco Technologies
+- Network Security
+- Linux Administration
+- Cloud Infrastructure
+- Cybersecurity
+
+### Current Goals
+
+- CCNA Certification
+- Enterprise Infrastructure
+- Network Security Engineering
+- Cloud Networking
+
+### Technologies
+
+- Cisco IOS
+- Routing & Switching
+- VPN Technologies
+- Linux
+- VMware
+- Network Monitoring
+
+### Connect With Me
+
+- Portfolio: https://rayagudisa.github.io
+- GitHub: https://github.com/rayagudisa
