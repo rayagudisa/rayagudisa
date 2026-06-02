@@ -30,8 +30,8 @@ Passionate about designing, securing, and managing enterprise network infrastruc
 - Infrastructure Troubleshooting
 
 ### Professional Role
-Junior Network Infrastructure Officer  
-Ministry of Revenues, Ethiopia
+**Junior Network Infrastructure Officer**  
+**Ministry of Revenues, Ethiopia**
 
 ### Connect With Me
 🌐 Portfolio: https://rayagudisa.github.io
